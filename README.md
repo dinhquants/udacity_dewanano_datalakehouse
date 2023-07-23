@@ -7,13 +7,13 @@ In this project, you'll act as a data engineer for the STEDI team to build a dat
 
 ## Datasets
 
-STEDI has three JSON data sources to use from the Step Trainer. Check out the JSON data in this folders in the Github repo linked above
+STEDI has three JSON data sources to use from the Step Trainer. Check out the JSON data in [this](https://github.com/udacity/nd027-Data-Engineering-Data-Lakes-AWS-Exercises/tree/main/project/starter
+) folders in the Github repo linked above
 
 - customer
 - step_trainer
 - accelerometer
 
-https://github.com/udacity/nd027-Data-Engineering-Data-Lakes-AWS-Exercises/tree/main/project/starter
 
 Create Bucket S3 and copy data above 
 
@@ -179,10 +179,10 @@ Create vpc endpoint/ iam role/ policy
 ## Implementation 
 
 1. Using SQL to create tables
-    Please ref to more detail 
+    Please ref [sql](https://github.com/dinhquants/udacity_dewanano_datalakehouse/tree/main/sql) to more detail 
 2. Create Job 
     ![Job](images/aws_glue_studio.png)
-  Please ref to more detail 
+  Please ref [job_script](https://github.com/dinhquants/udacity_dewanano_datalakehouse/tree/main/job_script) to more detail 
 3. Run Job to build data
     ![Job](images/aws_glue_studio_run.png)
 
